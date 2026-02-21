@@ -1,0 +1,12 @@
+Objective:
+Create a Temperature Converter.
+Requirements:
+ Input box for temperature.
+ Two buttons:
+o Convert to Fahrenheit
+o Convert to Celsius
+Formula:
+C → F = (C × 9/5) + 32
+F → C = (F − 32) × 5/9
+Output:
+ Display converted temperature dynamically.
